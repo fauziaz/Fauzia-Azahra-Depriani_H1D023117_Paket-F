@@ -61,7 +61,7 @@ void printQueue(QUEUE *Q){
         printf("%d ", Q->item[index]);
     }
         printf("\n");
-    }
+}
 
 int main(){
 inisialisasi(&antrean);
